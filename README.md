@@ -38,6 +38,7 @@ python train \
     --log_dir <your_save_path>  \
     --model_name <your_model_name>
     --iters 6
+    --png
 ```
 
 Depending on the size of your GPU, you may need to set `--batch_size` to be lower than 8. Additionally you can train a high resolution model by adding `--height 320 --width 1024`.
@@ -60,8 +61,6 @@ CUDA_VISIBLE_DEVICES=<your_desired_GPU> \
 python evaluate_depth \
     --data_path <your_KITTI_path> \
     --load_weights_folder <your_model_path>
-    --height <192 or 320>
-    --width <640 or 1024>
     --iters 6
     --eval_mono
     --png
