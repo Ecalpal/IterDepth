@@ -69,6 +69,16 @@ python evaluate_depth \
 If you want to evaluate a teacher network (i.e. the monocular network used for consistency loss), then add the flag `--eval_teacher`. This will 
 load the weights of `mono_encoder.pth` and `mono_depth.pth`, which are provided for our KITTI models. 
 
+In my experience, employing different software environments can yield varying evaluation results even when using the same weight file. The specific versions of the software utilized in this article are outlined below:
+```latex
+numpy                         1.21.5
+opencv-python                 4.5.5.64
+Pillow-SIMD                   9.0.0.post1
+torch                         1.11.0
+torchvision                   0.12.0
+```
+
+
 
 
 ## 👩‍⚖️ Acknowledgement and License
