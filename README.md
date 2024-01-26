@@ -82,6 +82,6 @@ torchvision                   0.12.0
 
 
 ## 👩‍⚖️ Acknowledgement and License
-The majority of the code for this project comes from [Manydepth](https://github.com/nianticlabs/manydepth). We appreciate the outstanding contributions Project A has made to this field.
+The majority of the code for this project comes from [Manydepth](https://github.com/nianticlabs/manydepth). We appreciate the outstanding contributions Project has made to this field.
 
 Meanwhile, the licensing of this project is the same as that of [Manydepth](https://github.com/nianticlabs/manydepth).
