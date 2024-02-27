@@ -15,16 +15,26 @@ We introduce ***IterDepth***, an iterative residual refinement network to dense 
 If you find our work useful or interesting, please cite our paper:
 
 ```latex
-@ARTICLE{10147244,
-  author={Feng, Cheng and Chen, Zhen and Zhang, Congxuan and Hu, Weiming and Li, Bing and Lu, Feng},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={IterDepth: Iterative Residual Refinement for Outdoor Self-supervised Multi-frame Monocular Depth Estimation}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TCSVT.2023.3284479}}
-
+@article{DBLP:journals/tcsv/FengCZHLL24,
+  author       = {Cheng Feng and
+                  Zhen Chen and
+                  Congxuan Zhang and
+                  Weiming Hu and
+                  Bing Li and
+                  Feng Lu},
+  title        = {IterDepth: Iterative Residual Refinement for Outdoor Self-Supervised
+                  Multi-Frame Monocular Depth Estimation},
+  journal      = {{IEEE} Trans. Circuits Syst. Video Technol.},
+  volume       = {34},
+  number       = {1},
+  pages        = {329--341},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/TCSVT.2023.3284479},
+  doi          = {10.1109/TCSVT.2023.3284479},
+  timestamp    = {Fri, 26 Jan 2024 07:57:10 +0100},
+  biburl       = {https://dblp.org/rec/journals/tcsv/FengCZHLL24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```
 
 ## 👀 Reproducing Paper Results
