@@ -2,7 +2,7 @@
 The official code of IterDepth: Iterative Residual Refinement for Outdoor Self-Supervised Multi-Frame Monocular Depth Estimation
 
 
-[Cheng Feng](https://scholar.google.com/citations?hl=en&user=7DWAC44AAAAJ), Zhen Chen, Congxuan Zhang, Weiming Hu, Bing Li, and Feng Lu. – **TCSVT 2023**
+[Cheng Feng](https://scholar.google.com/citations?hl=en&user=7DWAC44AAAAJ), Zhen Chen, Congxuan Zhang, Weiming Hu, Bing Li, and Feng Lu. – **TCSVT 2024**
 
 [[Link to paper]](https://ieeexplore.ieee.org/document/10147244)
 
