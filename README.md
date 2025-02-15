@@ -48,6 +48,7 @@ python train \
     --log_dir <your_save_path>  \
     --model_name <your_model_name>
     --batch_size 8
+    --num_workers 8
     --iters 6
     --png
 ```
