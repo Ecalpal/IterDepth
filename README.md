@@ -47,6 +47,7 @@ python train \
     --data_path <your_KITTI_path> \
     --log_dir <your_save_path>  \
     --model_name <your_model_name>
+    --batch_size 8
     --iters 6
     --png
 ```
